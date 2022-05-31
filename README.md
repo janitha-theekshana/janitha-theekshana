@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @janitha-theekshana
+- 👋 Hi, I’m Janitha Theekshana
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
-- 
+- 🌱 I’m currently learning React js
+ 
 
-<!---
-janitha-theekshana/janitha-theekshana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
